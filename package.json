@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shayne Philibert",
 	"description": "Building a cool new project",
+	"keywords": ["new","cool","project"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
